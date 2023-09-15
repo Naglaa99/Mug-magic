@@ -10,4 +10,4 @@
 
 ![preview img](./assets/images/screen.png)
 
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://naglaa99.github.io/Mug-magic/]
