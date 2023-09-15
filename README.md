@@ -8,6 +8,6 @@
 
 
 
-![preview img](../assets/images/screen.png)
+![preview img](./assets/images/screen.png)
 
 - Live Site URL: [Add live site URL here]
