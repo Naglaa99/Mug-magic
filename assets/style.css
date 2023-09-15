@@ -270,30 +270,31 @@ li a:hover {
 
 @media (max-width: 474px) {
   .home .col2 h1 {
-    font-size: 25px;
-    color: snow;
+    font-size: 30px;
+    letter-spacing: 1.5px;
+    color: rgb(253, 239, 239);
     font-family: "Pacifico";
     text-align: center;
-    margin-top: -160px;
+    margin-top: -200px;
     color: snow;
-    margin-left: -350px;
+    margin-left: -360px;
   }
 
   .home .col2 p {
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Pacifico";
-    width: 170px;
-    color: #efa872;
+    width: 190px;
+    color: #fcb680;
     text-align: center;
-    margin-left: -270px;
+    margin-left: -285px;
 
-    margin-top: 80px;
+    margin-top: 100px;
     font-weight: 400;
   }
 
   .home .col1 img {
-    width: 65px;
-    transform: translate(130px, 165px);
+    width: 70px;
+    transform: translate(130px, 220px);
     animation: none;
   }
 }
@@ -415,6 +416,9 @@ li a:hover {
 }
 
 @media screen and (max-width: 768px) {
+.about h1{
+    margin-top: 50px;
+}
   .about {
     margin: 10px;
   }
