@@ -15,3 +15,12 @@ onload = ()=> {
       dropdownMenu.style.display = 'block';
     }
   });
+  dropdownMenu.style.display = 'none';
+  
+  var navLinks = document.querySelectorAll('.dropdown-menu a');
+
+  navLinks.forEach(function(link) {
+    link.addEventListener('click', function() {
+      dropdownMenu.style.display = 'none';
+    });
+  });
